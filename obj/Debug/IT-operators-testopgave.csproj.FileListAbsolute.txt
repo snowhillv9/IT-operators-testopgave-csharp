@@ -1,0 +1,10 @@
+C:\Users\Bruger\source\repos\IT-operators-testopgave\bin\Debug\IT-operators-testopgave.exe.config
+C:\Users\Bruger\source\repos\IT-operators-testopgave\bin\Debug\IT-operators-testopgave.exe
+C:\Users\Bruger\source\repos\IT-operators-testopgave\bin\Debug\IT-operators-testopgave.pdb
+C:\Users\Bruger\source\repos\IT-operators-testopgave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruger\source\repos\IT-operators-testopgave\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruger\source\repos\IT-operators-testopgave\obj\Debug\IT-operators-testopgave.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\IT-operators-testopgave\obj\Debug\IT-operators-testopgave.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\IT-operators-testopgave\obj\Debug\IT-operators-testopgave.csproj.CopyComplete
+C:\Users\Bruger\source\repos\IT-operators-testopgave\obj\Debug\IT-operators-testopgave.exe
+C:\Users\Bruger\source\repos\IT-operators-testopgave\obj\Debug\IT-operators-testopgave.pdb
